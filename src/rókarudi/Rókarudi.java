@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package rókarudi;
 
 import java.io.IOException;
@@ -10,10 +7,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author PácziBalázs(SZF_N_20
- */
+
 public class Rókarudi {
 
     static List<Fuvar> fuvarok = new ArrayList<>();
